@@ -88,12 +88,13 @@ header nav ul li {
     color: #ffffff;
 }
 
+/* float first and thrid image in the content section to the left*/
 .img-left {
     max-height: 200px;
     float: left;
     margin-right: 25px;
 }
-
+/*float second image in the content section to the right */
 .img-right {
     float: right;
     max-height: 200px;
