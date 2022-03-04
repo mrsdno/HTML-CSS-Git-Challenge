@@ -1,10 +1,8 @@
-# horiseon-accessibility
-
-HTML CSS Git Challenge: Code Refractor
+# HTML-CSS-Git-Challenge
 
 This is my submission for the first challenge in Rutger's Coding Bootcamp.
 
-I was given starter code for the landing page of Hori-seo-n, a company that specializes in Search Engine Optimization, Online Reputation Management, and Social Media Marketing. I needed to refractor the website to make it more accessible. 
+I was given starter code for the landing page of Horiseon, a company that provides social solution services. I needed to refractor the website and make it more accessible. 
 
 I did this by adding:
  - semantic html elements
