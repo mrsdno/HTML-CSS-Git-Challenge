@@ -14,4 +14,4 @@ I did this by adding:
 
 I learned a lot about the important of accessibility in the web design when completing this assignment.
  
-Link: https://mrsdno.github.io/horiseon-accessibility/
+Link: https://mrsdno.github.io/HTML-CSS-Git-Challenge/
