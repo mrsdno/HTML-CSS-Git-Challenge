@@ -1,4 +1,6 @@
-# HTML-CSS-Git-Challenge
+# Horiseon-Accessibility
+
+
 
 This is my submission for the first challenge in Rutger's Coding Bootcamp.
 
